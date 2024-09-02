@@ -19,6 +19,12 @@ Skills:
 - Error Handling
 - Validation
 - ECMASCRIPT6
-(https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg)](https://github.com/abdalrhman45) 
-(https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg)](https://linkedin.com/in/abdalrhman-saber)
+  
+<a href="https://github.com/abdalrhman45">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="20">
+</a>
+<a href="https://linkedin.com/in/abdalrhman-saber">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20">
+</a>
+
 
