@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=nest.js" height="30" alt="nest.js logo"  />
 </div>
 
 ###
