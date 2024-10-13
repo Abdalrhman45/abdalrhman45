@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm a computer Scienece graduate interested in BackEnd , from Egypt...?!</h2>
+<h2 align="left">Hi! I'm a computer Science graduate interested in BackEnd , from Egypt...?!</h2>
 
 ###
 
