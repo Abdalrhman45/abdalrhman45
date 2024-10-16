@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm a computer Science graduate interested in BackEnd , from Egypt...?!</h2>
+<h2 align="left">Hi! I'm a computer Science graduate interested in BackEnd , from Egypt...</h2>
 
 ###
 
@@ -55,8 +55,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
