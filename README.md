@@ -18,7 +18,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
-
 </div>
 
 ###
@@ -42,7 +41,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nest.js" height="30" alt="nest.js logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
 </div>
 
 ###
@@ -73,9 +72,8 @@
   </a>
   <a href="https://linkedin.com/in/abdalrhman-saber" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a><a
-      <href ="https://leetcode.com/profile/" >
+  </a>
+  <a href="https://leetcode.com/u/AbdalrhmanSaber/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="leetcode logo" />
   </a>
 </div>
-
-###
