@@ -1,79 +1,85 @@
-<h2 align="left">Hi! I'm a AbdalRhman Backend Developer from Egypt</h2>
+<h1 align="center"> 
+  ✨ Welcome to My Profile ✨ 
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=7F3FBF&center=true&vCenter=true&width=500&lines=Hi!+I'm+AbdalRhman;Backend+Developer+from+Egypt+🇪🇬;Node.js+%7C+NestJS+%7C+TypeScript;Open-Source+Enthusiast" alt="Typing Animation" />
+</h3>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdalrhman45&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrhman45&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdalrhman45&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0D1117" height="165" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalrhman45&theme=radical&hide_border=true&background=0D1117" height="165" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrhman45&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="languages graph"  />
 </div>
 
-###
+---
 
-<h4 align="left">Languages I use</h4>
+### 🛠️ **Tech Stack**
 
-###
-
+<h4 align="left">📋 Languages</h4>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" height="40" alt="languages" />
 </div>
 
-###
-
-<h4 align="left">Backend Stack</h4>
-
-###
-
+<h4 align="left">⚡ Backend</h4>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" height="40" alt="backend" />
 </div>
 
-###
-
-<h4 align="left">Tools</h4>
-
-###
-
+<h4 align="left">🗃️ Databases</h4>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite" height="40" alt="databases" />
 </div>
 
-###
-
-<h4 align="left">Socials</h4>
-
-###
-
+<h4 align="left">☁️ DevOps & Cloud</h4>
 <div align="left">
-  <a href="mailto:abdalrhmansaber54@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/abdalrhman-saber" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx" height="40" alt="devops" />
+</div>
+
+<h4 align="left">🔧 Tools</h4>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman" height="40" alt="tools" />
+</div>
+
+---
+
+### 🌟 **Featured Projects**
+<!-- Replace with your actual project links -->
+- **[E-Commerce API](https://github.com/Abdalrhman45/ecommerce-api)** – A scalable backend with Node.js & MongoDB  
+- **[Auth Microservice](https://github.com/Abdalrhman45/auth-service)** – JWT-based authentication using NestJS  
+- **[Redis Caching System](https://github.com/Abdalrhman45/redis-caching)** – High-performance caching layer  
+
+---
+
+### 📈 **LeetCode Stats**
+<div align="left">
   <a href="https://leetcode.com/u/AbdalrhmanSaber/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="leetcode logo" />
+    <img src="https://leetcard.jacoblin.cool/AbdalrhmanSaber?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" width="400" />
   </a>
 </div>
+
+---
+
+### 📫 **Let's Connect!**
+<div align="left">
+  <a href="mailto:abdalrhmansaber54@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/abdalrhman-saber">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/AbdalrhmanSaber/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/Abdalrhman45">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdalrhman45&label=Profile%20Views&color=7F3FBF&style=flat" alt="Profile Views" />
+</p>
