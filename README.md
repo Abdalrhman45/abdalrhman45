@@ -46,7 +46,6 @@
 ---
 
 ### 🌟 **Featured Projects**
-<!-- Replace with your actual project links -->
 - **[E-Commerce API](https://github.com/Abdalrhman45/ecommerce-api)** – A scalable backend with Node.js & MongoDB  
 - **[Auth Microservice](https://github.com/Abdalrhman45/auth-service)** – JWT-based authentication using NestJS  
 - **[Redis Caching System](https://github.com/Abdalrhman45/redis-caching)** – High-performance caching layer  
@@ -79,7 +78,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdalrhman45&label=Profile%20Views&color=7F3FBF&style=flat" alt="Profile Views" />
-</p>
