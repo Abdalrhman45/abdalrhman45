@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=header&text=&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=140&section=header" width="100%" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=7F3FBF&center=true&vCenter=true&width=600&lines=Hey!+I'm+AbdalRhman+👋;Backend+Developer+from+Egypt+🇪🇬;Node.js+%7C+NestJS+%7C+TypeScript;Open-Source+Enthusiast+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=7F3FBF&center=true&vCenter=true&width=650&lines=Hey!+I'm+AbdalRhman+👋;Backend+Developer+from+Egypt+🇪🇬;Node.js+%7C+NestJS+%7C+TypeScript;Building+Scalable+Systems+🚀" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdalrhman45&color=7F3FBF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Abdalrhman45?style=flat-square&color=7F3FBF&labelColor=0D1117" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Abdalrhman45&color=7F3FBF&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Abdalrhman45?style=flat-square&color=7F3FBF&labelColor=0D1117" />
 </p>
 
 ---
@@ -19,101 +19,42 @@
 name: AbdalRhman Saber
 location: Egypt 🇪🇬
 role: Backend Developer
-focus: [Node.js, NestJS, TypeScript, Distributed Systems]
-currently_learning: [Kubernetes, System Design, GraphQL Subscriptions]
-fun_fact: I debug with console.log and I'm not ashamed
-```
+focus:
+  - Node.js
+  - NestJS
+  - TypeScript
+  - Distributed Systems
 
----
+currently_learning:
+  - Kubernetes
+  - System Design
+  - GraphQL Subscriptions
 
-### 📊 GitHub Stats
-
+fun_fact: "console.log is still my best friend 😄"
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdalrhman45&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalrhman45&theme=radical&hide_border=true&background=0D1117" height="165"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrhman45&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" height="165"/> </div>
+🛠️ Tech Stack
+📋 Languages
+<p> <img src="https://skillicons.dev/icons?i=js,ts,python,java" /> </p>
+⚡ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" /> </p>
+🗃️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite" /> </p>
+☁️ DevOps & Cloud
+<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx" /> </p>
+🔧 Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman" /> </p>
+🌟 Featured Projects
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdalrhman45&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0D1117" height="165" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalrhman45&theme=radical&hide_border=true&background=0D1117" height="165" alt="streak graph" />
+Project	Description	Tech
+🛒 E-Commerce API
+	Scalable REST API with product & order management	Node.js, MongoDB
+🔐 Auth Microservice
+	JWT authentication & authorization system	NestJS, TypeScript
+⚡ Redis Caching
+	High-performance caching layer	Redis, Node.js
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrhman45&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="languages graph" />
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-<h4 align="left">📋 Languages</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java" height="40" alt="languages" />
-</div>
-
-<h4 align="left">⚡ Backend</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" height="40" alt="backend" />
-</div>
-
-<h4 align="left">🗃️ Databases</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite" height="40" alt="databases" />
-</div>
-
-<h4 align="left">☁️ DevOps & Cloud</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx" height="40" alt="devops" />
-</div>
-
-<h4 align="left">🔧 Tools</h4>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman" height="40" alt="tools" />
-</div>
-
----
-
-### 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🛒 E-Commerce API](https://github.com/Abdalrhman45/ecommerce-api) | Scalable REST backend with full product & order management | Node.js, MongoDB |
-| [🔐 Auth Microservice](https://github.com/Abdalrhman45/auth-service) | JWT-based authentication & authorization service | NestJS, TypeScript |
-| [⚡ Redis Caching System](https://github.com/Abdalrhman45/redis-caching) | High-performance caching layer for APIs | Redis, Node.js |
-
-</div>
-
----
-
-### 📈 LeetCode Stats
-
-<div align="center">
-  <a href="https://leetcode.com/u/AbdalrhmanSaber/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/AbdalrhmanSaber?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" width="420" />
-  </a>
-</div>
-
----
-
-### 📫 Let's Connect
-
-<div align="center">
-  <a href="mailto:abdalrhmansaber54@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/abdalrhman-saber">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/AbdalrhmanSaber/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="32" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Abdalrhman45">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=100&section=footer" width="100%" />
-</div>
+📈 LeetCode
+<div align="center"> <a href="https://leetcode.com/u/AbdalrhmanSaber/" target="_blank"> <img src="https://leetcard.jacoblin.cool/AbdalrhmanSaber?theme=dark&font=Roboto&ext=contest" width="420"/> </a> </div>
+📫 Connect With Me
+<div align="center"> <a href="mailto:abdalrhmansaber54@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> &nbsp; <a href="https://linkedin.com/in/abdalrhman-saber"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="https://leetcode.com/u/AbdalrhmanSaber/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> &nbsp; <a href="https://github.com/Abdalrhman45"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer" width="100%" /> </div> ```
